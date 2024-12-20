@@ -5,7 +5,7 @@ function App () {
     <div className="container-fluid">
 
      <div className=" row text-center text-white py-4" style={{backgroundColor:"teal"}}>
-      <h3>The Moz Story</h3>
+      <h3>MY FIRST REACT 1</h3>
        <p> We know SEO. In fact, we wrote the blog on it.</p>
 
      </div>
