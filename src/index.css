@@ -1,0 +1,43 @@
+.viewcontent{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  background-color: rgb(217,241,241);
+}
+
+  .viewimage{
+    flex: 1;
+    object-fit: contain;
+    height: auto;
+    padding-left: 40px;
+    padding-top: 30px;
+  }
+  .viewtext{
+    flex: 3;
+    padding-right: 60px;
+  }
+
+  .viewcontent2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: whitesmoke;
+  }
+  
+    .viewimage2{
+      flex: 1;
+      object-fit: contain;
+      height: auto;
+      padding-left: 40px;
+      padding-top: 30px;
+    }
+    .viewtext2{
+      flex: 3;
+      padding-left: 100px;
+    }
+
+
+  
+  
+
+
